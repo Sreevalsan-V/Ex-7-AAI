@@ -1,7 +1,7 @@
 ### ENTER YOUR NAME : SREEVALSAN V
 ### ENTER YOUR REGISTER NO : 212223240158
 ### EX. NO.7
-### DATE:07-05-2024
+### DATE:30-04-2024
 ## Implementation of Text  Summarization
 ### Aim: 
 To perform automatic text summarization using Natural Language Processing (NLP) techniques. 
